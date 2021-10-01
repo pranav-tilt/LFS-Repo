@@ -1,0 +1,28 @@
+{
+   "CarsList":[
+      {
+         "label":"Car1",
+         "ID":1,
+         "modelURL":"https://pranav-tilt.github.io/3DModels/racing_car.fbx",
+         "positionTag":"A1"
+      },
+      {
+         "label":"Car2",
+         "ID":2,
+         "modelURL":"https://pranav-tilt.github.io/3DModels/racing_car.fbx",
+         "positionTag":"A2"
+      },
+      {
+         "label":"Car3",
+         "ID":3,
+         "modelURL":"https://pranav-tilt.github.io/3DModels/racing_car.fbx",
+         "positionTag":"A3"
+      },
+      {
+         "label":"Car4",
+         "ID":4,
+         "modelURL":"https://pranav-tilt.github.io/3DModels/racing_car.fbx",
+         "positionTag":"A4"
+      }
+   ]
+}
