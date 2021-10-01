@@ -3,25 +3,25 @@
       {
          "label":"Car1",
          "ID":1,
-         "modelURL":"https://pranav-tilt.github.io/3DModels/racing_car.fbx",
+         "modelURL":"https://pranav-tilt.github.io/LFS-Repo/AmgGT.fbx",
          "positionTag":"A1"
       },
       {
          "label":"Car2",
          "ID":2,
-         "modelURL":"https://pranav-tilt.github.io/3DModels/Models/race.fbx",
+         "modelURL":"https://pranav-tilt.github.io/LFS-Repo/DeLorean.FBX",
          "positionTag":"A2"
       },
       {
          "label":"Car3",
          "ID":3,
-         "modelURL":"https://pranav-tilt.github.io/3DModels/Models/hatchbackSports.fbx",
+         "modelURL":"https://pranav-tilt.github.io/LFS-Repo/car1.FBX",
          "positionTag":"A3"
       },
       {
          "label":"Car4",
          "ID":4,
-         "modelURL":"https://pranav-tilt.github.io/3DModels/Models/sedanSports.fbx",
+         "modelURL":"https://pranav-tilt.github.io/LFS-Repo/Merc.FBX",
          "positionTag":"A4"
       }
    ]
